@@ -1,7 +1,7 @@
 javascript-the-bad-parts
 ========================
 
-examples of terrible behavior in javascript
+examples of terrible behavior in javascript - send me a pull request!
 
 js> [1,2,3] + [4,5,6]
 

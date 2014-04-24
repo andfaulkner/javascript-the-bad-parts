@@ -12,4 +12,9 @@ js> ["1","2","3","4"].map(parseInt)
 [1, NaN, NaN, NaN]
 
 js> typeof null
+
 "object"
+
+js> false == "0"
+
+true

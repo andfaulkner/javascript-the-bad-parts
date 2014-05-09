@@ -18,3 +18,15 @@ js> typeof null
 js> false == "0"
 
 true
+
+js> [1,2,3] == [1,2,3] //thanks to @gsuberland
+
+false
+
+js> [1,2,3] <= [1,2,3] //thanks to @gsuberland
+
+true
+
+js> [1,2,3] >= [1,2,3] //thanks to @gsuberland
+
+true

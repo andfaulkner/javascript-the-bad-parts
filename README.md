@@ -23,10 +23,30 @@ js> [1,2,3] == [1,2,3] //thanks to @gsuberland
 
 false
 
-js> [1,2,3] <= [1,2,3] //thanks to @gsuberland
+js> [1,2,3] <= [1,2,3] 
 
 true
 
-js> [1,2,3] >= [1,2,3] //thanks to @gsuberland
+js> [1,2,3] >= [1,2,3] 
 
 true
+
+js>  0 > null  //thanks @konklone  
+
+false 
+
+js>  0 >= null 
+
+true 
+
+js>  0 == null 
+
+false 
+
+js>  0 <= null
+
+true 
+
+js>  0 < null
+
+false

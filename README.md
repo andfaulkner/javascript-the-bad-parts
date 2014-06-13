@@ -50,3 +50,5 @@ true
 js>  0 < null
 
 false
+
+js> (+0 === -0) !== Object.is(+0, -0)     //thanks to @_jayphelps 

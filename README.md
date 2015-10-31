@@ -54,3 +54,9 @@ false
 js> (+0 === -0) !== Object.is(+0, -0)     //thanks to @_jayphelps 
 
 true
+
+js> var undefined = 'why is this not a keyword!?!?!?!?';
+    //500 lines of code later
+    console.log(typeof undefined);
+
+string
